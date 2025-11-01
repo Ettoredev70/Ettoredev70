@@ -1,6 +1,6 @@
 ## Hi Ettore Lucchesi👋
 
-I specialize in **PC repair and technical support**, **custom PC builds**, and **hardware/software optimization**. My experience in **graphic design** ranges from creating posters, flyers, and advertising materials to building **custom WordPress websites** designed for easy management and practical use. Always exploring new ways to make systems **faster, smarter, and more efficient**.
+I specialize in **PC repair and technical support**, **custom PC builds**, and **hardware/software optimization**. My experience in building **custom WordPress websites** designed for easy management and practical use. Always exploring new ways to make systems **faster, smarter, and more efficient**.
 🧠 Skills
 🖥️ PC Repair & Optimization (Hardware / Software)
 ⚙️ Custom PC Assembly & Component Selection
