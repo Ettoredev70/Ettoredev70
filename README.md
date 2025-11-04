@@ -1,12 +1,20 @@
 ## Hi Ettore Lucchesi👋
 
-I specialize in **PC repair and technical support**, **custom PC builds**, and **hardware/software optimization**. My experience in building **custom WordPress websites** designed for easy management and practical use. Always exploring new ways to make systems **faster, smarter, and more efficient**.
+I specialize in **PC repair and technical support**, **custom PC builds**, and **hardware/software optimization**. 
+My experience in building **custom WordPress websites** designed for easy management and practical use. Always exploring new ways to make systems **faster, smarter, and more efficient**.
+
 🧠 Skills
+
 🖥️ PC Repair & Optimization (Hardware / Software)
+
 ⚙️ Custom PC Assembly & Component Selection
+
 🌐 WordPress Website Design & Management
+
 🪟 Windows User
+
 🐧 Linux Lover
+
 <!--
 **Ettoredev70/Ettoredev70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
